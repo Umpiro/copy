@@ -15,5 +15,10 @@ export default {
 
 body {
   background-color: #fbf9fe;
+  export default {
+  components: {
+    Card
+  }
 }
+
 </style>
